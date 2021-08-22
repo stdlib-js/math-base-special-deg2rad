@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-special-deg2rad",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Convert an angle from degrees to radians.",
   "license": "Apache-2.0",
   "author": {
@@ -14,7 +14,7 @@
     }
   ],
   "main": "./lib",
-  "gypfile": true,
+  "gypfile": false,
   "directories": {
     "benchmark": "./benchmark",
     "doc": "./docs",
