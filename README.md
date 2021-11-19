@@ -20,7 +20,7 @@ limitations under the License.
 
 # deg2rad
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Convert an angle from degrees to radians.
 
@@ -240,8 +240,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/math-base-special-deg2rad/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/math-base-special-deg2rad?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/math-base-special-deg2rad.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/math-base-special-deg2rad/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
