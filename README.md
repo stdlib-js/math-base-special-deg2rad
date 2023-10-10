@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import deg2rad from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-deg2rad@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-deg2rad/tags). For example,
+
+```javascript
 import deg2rad from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-deg2rad@v0.1.1-esm/index.mjs';
 ```
 
@@ -77,7 +82,7 @@ r = deg2rad( NaN );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import deg2rad from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-deg2rad@v0.1.1-esm/index.mjs';
+import deg2rad from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-deg2rad@esm/index.mjs';
 
 var d;
 var r;
