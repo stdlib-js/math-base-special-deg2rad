@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import deg2rad from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-deg2rad@deno/mod.js';
+import deg2rad from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-deg2rad@v0.2.3-deno/mod.js';
 ```
 
 #### deg2rad( x )
@@ -73,7 +73,7 @@ r = deg2rad( NaN );
 ```javascript
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
-import deg2rad from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-deg2rad@deno/mod.js';
+import deg2rad from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-deg2rad@v0.2.3-deno/mod.js';
 
 var opts = {
     'dtype': 'float64'
